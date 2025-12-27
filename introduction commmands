@@ -1,1 +1,51 @@
 # introduction commands to see whats all about and the basic elements
+
+Directory Structure
+Linux uses a single root directory "/"
+Everything (files & folders) starts from "/"
+bash - /
+COMMANDS ;
+
+ls -- 📃 List Directory Contents 
+
+ls-a -- List all files (including hidden)
+
+ls-l -- List with details
+
+more FILENAME -- more is the command to see a particular file 📄 View File Contents
+
+cat FILENAME -- same as more an alternative command
+
+mkdir directory_name -- make a new directive 📂
+
+mkdir dir1 dir2 dir3 -- for multiple directive making
+
+mv file.txt folder/ -- mv is the command used to move 
+
+mv oldname.txt newname.txt -- move also used as a rename command
+
+cd folder_name -- to change directory to any particular directory that mentioned after the cd command
+
+cd .. -- this command is used for going back one level (can be consider as a previos button of kind)
+
+cd ~  -- this command is used to go back to home directory
+
+pwd  -- this command is used for printing current location that you are in
+
+cp  source destination -- cp command is basicaly copy and have to mention were is the copy content and were do you want to put it 
+
+rm file.txt -- is used to remove or delete a file
+
+rmdir folder_name -- for removing or deleting directory
+
+rm -r folder_name -- for removing directory with files
+
+
+
+
+
+
+
+
+
+
