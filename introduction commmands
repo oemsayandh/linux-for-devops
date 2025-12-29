@@ -40,7 +40,45 @@ rmdir folder_name          -- for removing or deleting directory
 
 rm -r folder_name          -- for removing directory with files
 
+ls -l                      -- to see permissions and file details
+                                 r   → read
+                                 w   → write
+                                 x   → execute
+                                 -   → permission denied
 
+chmod                      -- changes file permission modes.
+                               chmod [who][operator][permission] filename
+
+                                Who:
+
+                                 u: user (owner)
+                                 g: group
+                                 o: others 
+                                 a: all (user + group + others)
+
+                                Operators:
+
+                                 +: add permission 
+                                 -: remove permission
+
+                                Permissions:
+
+                                 r: read
+                                 w: write
+                                 x: execute
+
+chmod g+w notes.txt        -- Give write permission to group 
+chmod u-w notes.txt        -- Remove write permission from owner
+chmod a-rwx secret.txt     -- Remove all permissions from everyone
+chmod a+rwx public.txt     -- Give all permissions to everyone
+
+Wildcard
+
+ls *                       -- Apply a command to all files in the current directory
+
+chmod g+w *                -- Change permissions for all files
+
+ls *ing                    -- Match files ending with a specific pattern
 
 
 
