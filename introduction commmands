@@ -80,6 +80,7 @@ chmod g+w *                -- Change permissions for all files
 
 ls *ing                    -- Match files ending with a specific pattern
 
+~                          -- shortcut that represents your home folder
 
 
 
