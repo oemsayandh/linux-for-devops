@@ -82,6 +82,18 @@ ls *ing                    -- Match files ending with a specific pattern
 
 ~                          -- shortcut that represents your home folder
 
+man ls                     -- provides comprehensive documentation including the command's name,
+                              synopsis, description, options, examples, and related commands
+
+man man                    -- to learn about the man command itself
+
+find                       -- use to find file(you have to guide it to directory for effeciency)
+                              ~ -name "poem*"
+                              ~ = home directory/user directory
+                              -name = characterstic of file is it name,number,size,date...
+                              "poem*" = approx file name
+
+
 
 
 
