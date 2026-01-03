@@ -93,6 +93,10 @@ find                       -- use to find file(you have to guide it to directory
                               -name = characterstic of file is it name,number,size,date...
                               "poem*" = approx file name
 
+cat                        --  (concatenate)  combining files 
+                               cat file1.txt file2.txt > combined.txt
+
+
 
 
 
