@@ -96,6 +96,14 @@ find                       -- use to find file(you have to guide it to directory
 cat                        --  (concatenate)  combining files 
                                cat file1.txt file2.txt > combined.txt
 
+>                          -- output redirection It sends the output of a command into a file instead of the screen.
+                              cat "Hello Linux" > hello.txt
+                              Overwrite an existing file , delete and write ,there will be no previous data of file
+
+>>                         -- same as ">" redirection but it will write after the alredy eexisting data no removal 
+                              of data
+ 
+
 
 
 
