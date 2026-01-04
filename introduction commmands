@@ -102,6 +102,12 @@ cat                        --  (concatenate)  combining files
 
 >>                         -- same as ">" redirection but it will write after the alredy eexisting data no removal 
                               of data
+
+lpr                        -- send to printer
+lpq                        -- display print queue
+lprm                       -- remove from print queue
+                               {(lpr -P hp14 thoughts)}
+                               {('-P' stands for "printer")}
  
 
 
