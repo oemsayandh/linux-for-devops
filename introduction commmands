@@ -104,7 +104,7 @@ cat                        --  (concatenate)  combining files
                               of data
 
 lpr                        -- send to printer
-lpq                        -- display print queue
+lpq                        -- display print queue 
 lprm                       -- remove from print queue , also cancel your print job
                                {(lpr -P hp14 thoughts)}
                                {('-P' stands for "printer")}
