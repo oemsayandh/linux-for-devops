@@ -6,17 +6,17 @@ Everything (files & folders) starts from "/"
 bash - /
 COMMANDS ;
 
-ls                         -- 📃 List Directory Contents 
+ls                         --  List Directory Contents 
 
 ls-a                       -- List all files (including hidden)
 
 ls-l                       -- List with details
 
-more FILENAME              -- more is the command to see a particular file 📄 View File Contents
+more FILENAME              -- more is the command to see a particular file  View File Contents
 
 cat FILENAME               -- same as more an alternative command
 
-mkdir directory_name       -- make a new directive 📂
+mkdir directory_name       -- make a new directive 
 
 mkdir dir1 dir2 dir3       -- for multiple directive making
 
