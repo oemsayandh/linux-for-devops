@@ -108,8 +108,9 @@ lpq                        -- display print queue
 lprm                       -- remove from print queue , also cancel your print job
                                {(lpr -P hp14 thoughts)}
                                {('-P' stands for "printer")}
- 
 
+grep                       -- used to search for specific text patterns within files or data streams and print the lines 
+                              containing a match
 
 
 
