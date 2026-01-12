@@ -16,7 +16,7 @@ more FILENAME              -- more is the command to see a particular file  View
 
 cat FILENAME               -- same as more an alternative command
 
-mkdir directory_name       -- make a new directive 
+mkdir directory_name       -- make a new directive
 
 mkdir dir1 dir2 dir3       -- for multiple directive making
 
