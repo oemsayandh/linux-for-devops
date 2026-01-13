@@ -114,6 +114,24 @@ grep                       -- used to search for specific text patterns within f
 
 ps                         -- display a snapshot of the currently running processes on the system
 
+ps aux                     -- to display a comprehensive, static snapshot of all currently running processes on the system
+
+cp -r                      -- for copying whole tree 
+
+df                         -- command-line utility used to display a report of the total, used, and available disk space
+
+df .                       -- display available disk space in current space
+
+rm -r                      -- remove the root directory
+
+|                          -- to redirect the output of one command as the input to another command
+
+kill PID                   -- "PID is the id " The primary method is the kill command,
+                               which requires the Process ID (PID)
+
+                               kill -9 PID is for deep stoping 
+
+
 
 
 
