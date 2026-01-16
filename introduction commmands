@@ -131,7 +131,8 @@ kill PID                   -- "PID is the id " The primary method is the kill co
 
                                kill -9 PID is for deep stoping 
 
-
+ac                         -- Provides user connect time statistics, useful for system
+                              administrators to monitor login activity and potential security issues
 
 
 
