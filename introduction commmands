@@ -135,7 +135,8 @@ ac                         -- Provides user connect time statistics, useful for 
                               administrators to monitor login activity and potential security issues
 
 
-
+sed                        -- a powerful, non-interactive text manipulation tool used for performing operations like searching, replacing, 
+                              inserting, and deleting text from an input stream
 
 
 
